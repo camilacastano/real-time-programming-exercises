@@ -1,0 +1,8 @@
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\bin\Debug\LabFísica1.exe
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\bin\Debug\LabFísica1.pdb
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.Form1.resources
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.Properties.Resources.resources
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.csproj.GenerateResource.Cache
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.exe
+c:\users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.pdb
+C:\Users\jonat\documents\visual studio 2010\Projects\LabFísica1\LabFísica1\obj\x86\Debug\LabFísica1.csprojResolveAssemblyReference.cache
