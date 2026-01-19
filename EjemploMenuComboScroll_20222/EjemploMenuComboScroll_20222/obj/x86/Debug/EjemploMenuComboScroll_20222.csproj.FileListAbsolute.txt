@@ -1,0 +1,8 @@
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\bin\Debug\EjemploMenuComboScroll_20222.exe
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\bin\Debug\EjemploMenuComboScroll_20222.pdb
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.Form1.resources
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.Properties.Resources.resources
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.csproj.GenerateResource.Cache
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.exe
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.pdb
+C:\Users\SebasPC\Desktop\EjemploMenuComboScroll_20222\EjemploMenuComboScroll_20222\obj\x86\Debug\EjemploMenuComboScroll_20222.csprojResolveAssemblyReference.cache
