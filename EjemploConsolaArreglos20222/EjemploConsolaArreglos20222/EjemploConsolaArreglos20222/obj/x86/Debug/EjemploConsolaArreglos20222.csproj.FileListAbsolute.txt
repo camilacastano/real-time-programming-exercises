@@ -1,0 +1,4 @@
+C:\Users\SebasPC\Desktop\EjemploConsolaArreglos20222\EjemploConsolaArreglos20222\bin\Debug\EjemploConsolaArreglos20222.exe
+C:\Users\SebasPC\Desktop\EjemploConsolaArreglos20222\EjemploConsolaArreglos20222\bin\Debug\EjemploConsolaArreglos20222.pdb
+C:\Users\SebasPC\Desktop\EjemploConsolaArreglos20222\EjemploConsolaArreglos20222\obj\x86\Debug\EjemploConsolaArreglos20222.exe
+C:\Users\SebasPC\Desktop\EjemploConsolaArreglos20222\EjemploConsolaArreglos20222\obj\x86\Debug\EjemploConsolaArreglos20222.pdb
