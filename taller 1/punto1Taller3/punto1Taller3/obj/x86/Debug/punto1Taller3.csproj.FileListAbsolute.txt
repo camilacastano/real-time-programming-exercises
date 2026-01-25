@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\bin\Debug\punto1Taller3.exe
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\bin\Debug\punto1Taller3.pdb
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.Form1.resources
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.Properties.Resources.resources
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.exe
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.pdb
+C:\Users\Usuario\Desktop\progra\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\progra\taller3\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.exe
+C:\Users\Usuario\Desktop\progra\taller3\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.pdb
+C:\Users\Usuario\Desktop\progra\taller3\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\progra\taller3\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.Properties.Resources.resources
+C:\Users\Usuario\Desktop\progra\taller3\punto1Taller3\punto1Taller3\obj\x86\Debug\punto1Taller3.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\bin\Debug\terceroTaller3.exe
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\bin\Debug\terceroTaller3.pdb
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.Form1.resources
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.Properties.Resources.resources
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.exe
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.pdb
+C:\Users\Usuario\Desktop\progra\taller3\terceroTaller3\terceroTaller3\obj\x86\Debug\terceroTaller3.csprojResolveAssemblyReference.cache
