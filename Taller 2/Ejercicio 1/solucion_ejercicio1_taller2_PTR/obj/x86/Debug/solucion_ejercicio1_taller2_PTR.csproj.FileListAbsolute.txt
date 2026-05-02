@@ -1,0 +1,8 @@
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\bin\Debug\solucion_ejercicio1_taller2_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\bin\Debug\solucion_ejercicio1_taller2_PTR.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\obj\x86\Debug\solucion_ejercicio1_taller2_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\obj\x86\Debug\solucion_ejercicio1_taller2_PTR.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 2\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\obj\x86\Debug\solucion_ejercicio1_taller2_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 2\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\obj\x86\Debug\solucion_ejercicio1_taller2_PTR.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 2\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\bin\Debug\solucion_ejercicio1_taller2_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 2\solucion_ejercicio1_taller2_PTR\solucion_ejercicio1_taller2_PTR\bin\Debug\solucion_ejercicio1_taller2_PTR.pdb

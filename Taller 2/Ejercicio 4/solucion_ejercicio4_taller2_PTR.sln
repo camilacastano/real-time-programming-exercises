@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solucion_ejercicio4_taller2_PTR", "solucion_ejercicio4_taller2_PTR\solucion_ejercicio4_taller2_PTR.csproj", "{AC00F384-645A-4F28-BCA1-F7B3DDA61676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC00F384-645A-4F28-BCA1-F7B3DDA61676}.Debug|x86.ActiveCfg = Debug|x86
+		{AC00F384-645A-4F28-BCA1-F7B3DDA61676}.Debug|x86.Build.0 = Debug|x86
+		{AC00F384-645A-4F28-BCA1-F7B3DDA61676}.Release|x86.ActiveCfg = Release|x86
+		{AC00F384-645A-4F28-BCA1-F7B3DDA61676}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
