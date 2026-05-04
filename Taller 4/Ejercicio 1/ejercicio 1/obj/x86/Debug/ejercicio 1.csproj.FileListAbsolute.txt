@@ -1,0 +1,16 @@
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio_1.Form1.resources
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.csproj.GenerateResource.Cache
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.exe
+C:\Users\jaime\OneDrive\Documentos\semestre_10!\progra3\taller_4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio_1.Form1.resources
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\ejercicio 1\ejercicio 1\obj\x86\Debug\ejercicio 1.csproj.GenerateResource.Cache

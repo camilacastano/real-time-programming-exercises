@@ -1,0 +1,8 @@
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\bin\Debug\solucion_ejercicio2_Taller4_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\bin\Debug\solucion_ejercicio2_Taller4_PTR.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.Triki.resources
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.Properties.Resources.resources
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.csproj.GenerateResource.Cache
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.exe
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.pdb
+C:\Users\hp ryzen 5\Documents\Semestre 6\Programacion en tiempo real\Parte 1\Taller 4\solucion_ejercicio2_Taller4_PTR\solucion_ejercicio2_Taller4_PTR\obj\x86\Debug\solucion_ejercicio2_Taller4_PTR.csprojResolveAssemblyReference.cache

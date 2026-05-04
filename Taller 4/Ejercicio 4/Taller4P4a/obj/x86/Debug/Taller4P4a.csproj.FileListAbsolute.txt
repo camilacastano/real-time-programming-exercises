@@ -1,0 +1,17 @@
+D:\Visual Basic\Taller4P4a\Taller4P4a\bin\Debug\Taller4P4a.exe
+D:\Visual Basic\Taller4P4a\Taller4P4a\bin\Debug\Taller4P4a.pdb
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.Form1.resources
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.Properties.Resources.resources
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.csproj.GenerateResource.Cache
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.exe
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.pdb
+D:\Visual Basic\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\bin\Debug\Taller4P4a.exe
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\bin\Debug\Taller4P4a.pdb
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.Form1.resources
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.exe
+C:\Users\USER\OneDrive\Documentos\TIEMPO REAL\TALLER 4\Taller4P4a\Taller4P4a\obj\x86\Debug\Taller4P4a.pdb
